@@ -85,7 +85,7 @@ Implemented in Rust, [SurrealDB](https://surrealdb.com/) is an innovative NewSQL
 ## Follow : Official
 - [SurrealDB](https://github.com/surrealdb/surrealdb) - GitHub repository for SurrealDB.
 - [Twitter](https://twitter.com/SurrealDB) - Twitter profile for SurrealDB.
-- [Tobie Morgan Hitchcock (@tobiemh)](https://github.com/tobiemh) - Co-founder and CEO of SurrealDB. (Twitter: [@tobiemh](https://twitter.com/tobiemh)
+- [Tobie Morgan Hitchcock (@tobiemh)](https://github.com/tobiemh) - Co-founder and CEO of SurrealDB. (Twitter: [@tobiemh](https://twitter.com/tobiemh))
 - [Jaime Morgan Hitchcock (@jaimemhitchcock)](https://twitter.com/jaimemhitchcock) - Co-founder and COO of SurrealDB.
 - [SurrealDB YouTube Channel](https://www.youtube.com/@SurrealDBWorld/featured) - YouTube Channel for SurrealDB.
 - [SurrealDB Discord](https://discord.gg/surrealdb) - Discord for SurrealDB.
