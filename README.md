@@ -9,7 +9,7 @@ Implemented in Rust, [SurrealDB](https://surrealdb.com/) is an innovative NewSQL
 - [Awesome SurrealDB](#awesome-surrealdb)
   - [Official documentation](#official-documentation)
   - [Libraries/Packages/Scripts](#librariespackagesscripts)
-    - [Node.js](#node-js)
+    - [Node.js](#nodejs)
     - [Rust](#rust)
     - [Deno](#deno)
     - [WebAssembly](#webassembly)
